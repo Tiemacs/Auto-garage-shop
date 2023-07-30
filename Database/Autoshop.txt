@@ -1,0 +1,15 @@
+
+Database name: mydatabase2023
+
+   ADMIN LOGIN
+Username: Admin
+Password: 1234
+
+  COMMON USER LOGIN
+Username: Tonnie
+Password: 1234 
+
+
+Author: Antonny Adika
+Email:antonnykisanya001@gmail
+Kenya
